@@ -1,0 +1,13 @@
+.git
+.env.local
+.env.*.local
+storage/logs
+storage/framework/cache
+storage/framework/sessions
+storage/framework/testing
+bootstrap/cache
+node_modules
+.DS_Store
+.vscode
+tests
+phpunit.xml
